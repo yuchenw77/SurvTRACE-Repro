@@ -1,0 +1,15 @@
+survtrace
+******************************
+start evaluation
+******************************
+For 0.25 quantile,
+TD Concordance Index - IPCW: 0.726316839364452
+Brier Score: 0.10789148505253263
+For 0.5 quantile,
+TD Concordance Index - IPCW: 0.7078149253963376
+Brier Score: 0.1764785065080041
+For 0.75 quantile,
+TD Concordance Index - IPCW: 0.680753094770598
+Brier Score: 0.2127759924620904
+
+deephit

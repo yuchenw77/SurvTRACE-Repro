@@ -1,0 +1,29 @@
+[Train-0]: 31.85053300857544
+[Val-0]: 1.4157350063323975
+[Train-1]: 25.90294337272644
+[Val-1]: 1.293630599975586
+[Train-2]: 21.552034854888916
+[Val-2]: 1.1957900524139404
+[Train-3]: 21.186526358127594
+[Val-3]: 1.159324049949646
+[Train-4]: 21.0497043132782
+[Val-4]: 1.1739715337753296
+EarlyStopping counter: 1 out of 5
+[Train-5]: 21.098000288009644
+[Val-5]: 1.113986611366272
+[Train-6]: 20.91144037246704
+[Val-6]: 1.1145133972167969
+EarlyStopping counter: 1 out of 5
+[Train-7]: 20.799349546432495
+[Val-7]: 1.163464069366455
+EarlyStopping counter: 2 out of 5
+[Train-8]: 20.759562611579895
+[Val-8]: 1.1380442380905151
+EarlyStopping counter: 3 out of 5
+[Train-9]: 20.658826231956482
+[Val-9]: 1.1277499198913574
+EarlyStopping counter: 4 out of 5
+[Train-10]: 20.64706689119339
+[Val-10]: 1.1311317682266235
+EarlyStopping counter: 5 out of 5
+early stops at epoch 11
